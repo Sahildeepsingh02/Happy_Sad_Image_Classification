@@ -19,4 +19,5 @@ The model architecture is based on Convolutional Neural Networks (CNNs), which a
   - Convolutional layers for feature extraction
   - Max-pooling layers for down-sampling
   - Fully connected layers for final classification
+
 The model is trained on a labeled dataset of facial expressions to distinguish between "Happy" and "Sad" faces.
